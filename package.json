@@ -7,6 +7,8 @@
     "@types/node": "12.7.1",
     "@types/react": "16.8.25",
     "@types/react-dom": "16.8.5",
+    "@types/three": "^0.103.2",
+    "autodesk-forge-viewer": "git+https://github.com/mazhuravlev/autodesk-forge-viewer.git",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1",
